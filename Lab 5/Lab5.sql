@@ -1,3 +1,8 @@
+--   Name: Manu Mathew
+--   Class: S5-C
+--   Roll no: 37
+--   Reg no: CHN18CS079
+
 USE sql_lab;
 
 -- a) create a table class. Fields are name & id--
