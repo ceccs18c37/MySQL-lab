@@ -1,6 +1,6 @@
 USE lab_9;
 CREATE TABLE CUR (
-	name CHAR(10),
+    name CHAR(10),
     dob DATE,
     salary FLOAT
 );
@@ -9,7 +9,7 @@ DELIMITER //
 
 CREATE PROCEDURE IMP()
 BEGIN
-	DECLARE done INT DEFAULT FALSE;
+    DECLARE done INT DEFAULT FALSE;
     DECLARE emp_name CHAR(30);
     DECLARE emp_dob DATE;
     DECLARE emp_salary FLOAT;
