@@ -1,3 +1,8 @@
+--   Name: Manu Mathew
+--   Class: S5-C
+--   Roll no: 37
+--   Reg no: CHN18CS079
+
 CREATE TABLE SAILORS(
     SID INT PRIMARY KEY,
     SNAME CHAR(30),
